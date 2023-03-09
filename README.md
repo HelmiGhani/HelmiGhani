@@ -11,4 +11,6 @@ This is Helmi's Github, a place for my projects (be it data analytics or otherwi
 - :pencil2: Fun fact: I learn how to code using VBA in 2014 when I was tasked with handling lots of data using Excel. Decided to finally transition to Python through a data analytics course held by NTUC LearningHub.
   
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HelmiGhani&theme=tokyonight&mode=weekly&type=png)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=HelmiGhani"/></a>
+</p>
